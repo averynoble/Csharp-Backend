@@ -9,8 +9,7 @@ using System.Collections.Generic;
         "A washtub of Skittles",
         "World peace, but not the kind of world peach where all the humans are removed from existence",
         "A TV that is NOT internet-capable",
-        "The ability to fly, but, like, really fast...not just, like, how fast I can walk, but, like, fast, you know?", 
-            
+        "The ability to fly, but, like, really fast...not just, like, how fast I can walk, but, like, fast, you know?",         
     };
 
     foreach (string wish in IWishFor)
